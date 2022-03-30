@@ -1,4 +1,1 @@
-# Plots-from-Macroeconomics
-
-This is a jupyter notebook with interactive graphs made from the book Macroeconomics written by 
-Blanchard and Jonhson. This notebook does not explain macroeconomic concepts or python code in detail.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Stavre/Plots-from-Macroeconomics/HEAD?urlpath=%2Fvoila%2Frender%2Fnotebook.ipynb)
